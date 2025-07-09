@@ -1,11 +1,14 @@
 {
-	"folders": [
-		{
-			"path": "trivia-backend"
-		},
-		{
-			"path": "trivia-frontend"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "trivia-backend"
+    },
+    {
+      "path": "trivia-frontend"
+    }
+  ],
+  "settings": {
+    // ✅ Always open terminal at workspace root
+    "terminal.integrated.cwd": "${workspaceFolder}"
+  }
 }
