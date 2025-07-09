@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "trivia-backend"
+		},
+		{
+			"path": "trivia-frontend"
+		}
+	],
+	"settings": {}
+}
